@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+clean_speech/
+datasets/
+training_dataset/
+*.docx
+*.doc
+ser.ipynb
+IJRTI2205006_*
